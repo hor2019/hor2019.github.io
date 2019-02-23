@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Hor</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Hor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Overview HOR 2010 is a forum to present work concerning all aspects of higher-order rewriting. The aim is to provide an informal and friendly setting to discuss recent work and work in progress. The following is a non-exhaustive list of topics for the workshop:
+ Applications: proof checking, theorem proving, generic programming, declarative programming, program transformation, automated termination/confluence tools. Foundations: pattern matching, unification, strategies, narrowing, termination, syntactic properties, type theory, complexity of derivations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/invitedspeakes/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/invitedspeakes/</guid>
+      <description> Invited speakers </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/submission/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/submission/</guid>
+      <description> Submission </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/dates/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/dates/</guid>
+      <description> Important Dates  Submission: 15 April Notification: 17 May Final version: 31 May Workshop: 28 June  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/committee/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/committee/</guid>
+      <description> Program Committee  Silvia Ghilezan, chair TBA  </description>
+    </item>
+    
+  </channel>
+</rss>

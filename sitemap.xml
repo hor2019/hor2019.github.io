@@ -32,6 +32,14 @@
     
     <url>
     
+      <loc>/home%5Cdates/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
